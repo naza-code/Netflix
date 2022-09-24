@@ -1,0 +1,75 @@
+#navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.btn {
+  margin-left: 14rem;
+  margin-top: 4rem;
+}
+
+#navbar img {
+  padding-bottom: 1rem;
+}
+
+.sectionone input {
+  width: 200px;
+}
+
+#sectiontwo h1 {
+  font-size: 2.5rem;
+  margin-right: 1rem;
+}
+
+#sectiontwo p {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+#sectionthree {
+  display: block;
+}
+
+#sectionfour input {
+  width: 200px;
+}
+
+#sectionfour p {
+  margin-top: 2rem;
+}
+
+#sectionfour h3:hover {
+  color: black;
+}
+
+.bgdark {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-color: red;
+}
+
+#five .content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  margin-left: 0.25rem;
+}
+
+.one {
+  border-bottom: 5px solid red;
+}
+
+.two {
+  border-bottom: 5px solid red;
+}
+
+.three {
+  border-bottom: 5px solid red;
+}
+/*# sourceMappingURL=mobile.css.map */
